@@ -2,7 +2,7 @@
 
 ![Filoppsett](mapper_og_filer.png) 
 
-Et skript jeg skrev og bruker for opprettelse av USB verktøy.  
+Et skript jeg skrev og bruker for opprettelse av USB verktøy (UEFI boot).  
 Skriptet oppretter ny stikke med 10GB for boot og resten til verkstedfiler (diverse).  
 
 Først laster man ned Windows via media creation tool eller rufus og oppretter  
