@@ -18,4 +18,6 @@ ThronicPE.wim kan være hvilken som helst boot.wim/WinRE du har laget selv.
 Jeg bruker min egen som jeg har bygget med Win10XPE og oppdaterer innimellom.  
 
 Du kan når som helst kjapt bytte mellom Windows Setup sin boot.wim og din egen  
-enkelt ved å kjøre bytt_boot_modus.cmd som blir automatisk generert på USB verktøyet.
+enkelt ved å kjøre bytt_boot_modus.cmd som blir automatisk generert på USB verktøyet.  
+
+Når du da booter neste gang, vil den boote det du byttet til.
